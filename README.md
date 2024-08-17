@@ -1,6 +1,6 @@
   <!---![WhatsApp Image 2024-05-27 at 18 37 03_7226b55b](https://github.com/anulengure5/anulengure5/assets/114414659/d87c6355-edf8-4324-aeaa-70792764fe67)--->
 
-<h1 align="center" style="font=impact;">Hi 👋, I'm Anurag Rajesh Lengure</h1>
+<h1 align="center" style="font-weight=500;">Hi 👋, I'm Anurag Rajesh Lengure</h1>
 <h3 align="center">A passionate Computer Engineer with interest in development and cloud.</h3>
 <img align="right" alt="My OCTOCAT" width=370 src="https://github.com/anulengure5/anulengure5/assets/114414659/ffcc3681-e7e8-4452-ae1c-024fa4af2b8d">
                                                          
